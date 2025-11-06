@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "algo": "rx/0",
+            "url": "de.zephyr.herominers.com:1123",
+            "user": "ZEPHYR2vRCWg3AXbQTtq22DkwNaGAEkEwHBcBzih1FEgJsFycLW8Q4GAQPbPyGcURbDYPQv24tE47bXCozGgF6HfWPDw5jk4TZ638",
+            "pass": "LinuxAtom",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
