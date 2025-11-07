@@ -8,9 +8,9 @@
             "algo": "rx/0",
             "url": "de.zephyr.herominers.com:1123",
             "user": "ZEPHYR2vRCWg3AXbQTtq22DkwNaGAEkEwHBcBzih1FEgJsFycLW8Q4GAQPbPyGcURbDYPQv24tE47bXCozGgF6HfWPDw5jk4TZ638",
-            "pass": "LinuxAtom",
+            "rig-id": "Windows11",
             "keepalive": true,
-            "tls": true
+            "tls": false
         }
     ]
 }
